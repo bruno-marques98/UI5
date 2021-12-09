@@ -4,6 +4,7 @@ SAPUI5.
 SAPUI5 is an HTML5 framework for creating cross-platform, enterprose-grade web applications in an efficient way.
 
 ***In this Walkthrough i will mention the above points ***
+Each point is committed, you can see the code of the points in the commits
 
 1. Hello World!
 2. Bootstrap
