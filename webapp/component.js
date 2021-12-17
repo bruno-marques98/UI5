@@ -25,6 +25,8 @@ sap.ui.define([
             // Set dialog
             this._helloDialog = new HelloDialog(this.getRootControl());
 
+            // Create the views based no the url/hash
+            this.getRouter().initialize();
         },
         exit: function () {
             this._helloDialog.destroy();
